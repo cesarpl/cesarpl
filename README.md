@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cpl
+- 👀 I’m interested in dapps development and be part of the web 3.0
+- 🌱 I’m currently learning how to use solidity and truffle in the polygon chain
+- 📫 How to reach me through my twitter: @CPL_Developer
